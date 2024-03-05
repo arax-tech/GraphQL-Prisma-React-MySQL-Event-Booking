@@ -1,0 +1,3 @@
+
+npm i @types/bcryptjs @types/express @types/node prisma ts-node tsc-watch typescript -D
+npm i @apollo/server @prisma/client @types/jsonwebtoken bcryptjs dotenv express graphql jsonwebtoken
